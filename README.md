@@ -1,4 +1,4 @@
-<img width="230" alt="Screenshot 2023-01-21 at 4 49 54 PM" src="https://github.com/user-attachments/assets/79b6d358-ce9a-4a6e-82e6-e9af954a0513">
+<img width="420" alt="Screenshot 2023-01-21 at 4 49 54 PM" src="https://github.com/user-attachments/assets/79b6d358-ce9a-4a6e-82e6-e9af954a0513">
 <img width="390" alt="Screenshot 2023-01-21 at 4 50 38 PM" src="https://github.com/user-attachments/assets/4f1259af-c057-47f5-88cb-219dd3623599">
 
 # YOLO Robotics Object Detection
