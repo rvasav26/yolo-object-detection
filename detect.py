@@ -1,6 +1,6 @@
 #Author: Rhushil Vasavada
 #YOLOv5 Object Detection for Robotics
-#Description: this program contains code taken from the YOLOv5 built-in 
+#Description: This program contains code taken from the YOLOv5 built-in 
 #detection program, and it has been fine-tuned to run with the particular 
 #weights that have been produced from training this model on custom data (~3000
 #hand-annotated images of complex field objects). Running this program on a 
