@@ -5,7 +5,7 @@
 # weights that have been produced from training this model on custom data (~3000
 # hand-annotated images of complex field objects). Running this program on a 
 # webcam will enable the user to view a live footage that has superimposed 
-# bounding rectangles on key field objects in real-time.
+# bounding rectangles on key field objects in real time.
 
 import argparse
 import os
